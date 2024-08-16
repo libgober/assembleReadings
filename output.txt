@@ -1,0 +1,69 @@
+Processed PDF for Hacker2021: Readings/Session 1/Hacker2021.pdf
+Processed PDF for achenDemocracyRealistsWhy2016: Readings/Session 1/achenDemocracyRealistsWhy2016.pdf
+Processed PDF for sigelmanCoevolutionAmericanPolitical2006: Readings/Session 1/sigelmanCoevolutionAmericanPolitical2006.pdf
+Processed PDF for nationalsciencefoundationEmpiricalImplicationsTheoretical2001: Readings/Session 1/nationalsciencefoundationEmpiricalImplicationsTheoretical2001.pdf
+Processed PDF for berryLocalInterestsPolitics2023: Readings/Session 1/berryLocalInterestsPolitics2023.pdf
+Could not find or download PDF for Dahl2005
+Processed PDF for ostromOrganizationGovernmentMetropolitan1961: Readings/Session 2/ostromOrganizationGovernmentMetropolitan1961.pdf
+Processed PDF for sossPoliceAreOur2017: Readings/Session 2/sossPoliceAreOur2017.pdf
+Processed PDF for grumbachLaboratoriesDemocraticBacksliding2023: Readings/Session 2/grumbachLaboratoriesDemocraticBacksliding2023.pdf
+Processed PDF for Gamm2021: Readings/Session 2/Gamm2021.pdf
+Processed PDF for aldrichRationalChoiceTurnout1993: Readings/Session 3/aldrichRationalChoiceTurnout1993.pdf
+Processed PDF for bradySESResourceModel1995: Readings/Session 3/bradySESResourceModel1995.pdf
+Processed PDF for putnamBowlingAloneAmerica1995: Readings/Session 3/putnamBowlingAloneAmerica1995.pdf
+Processed PDF for hanOrganizingDemocracyUnderstanding2024a: Readings/Session 3/hanOrganizingDemocracyUnderstanding2024a.pdf
+Processed PDF for mcdonaldMythVanishingVoter2001c: Readings/Session 3/mcdonaldMythVanishingVoter2001c.pdf
+Processed PDF for krupnikovWhenDoesNegativity2011a: Readings/Session 3/krupnikovWhenDoesNegativity2011a.pdf
+Processed PDF for broockmanConsumingCrosscuttingMedia: Readings/Session 4/broockmanConsumingCrosscuttingMedia.pdf
+Processed PDF for mcgrathEconomicBehaviorPartisan2017: Readings/Session 4/mcgrathEconomicBehaviorPartisan2017.pdf
+Processed PDF for kimEntertainingBeliefsEconomic2023: Readings/Session 4/kimEntertainingBeliefsEconomic2023.pdf
+Processed PDF for gilensTestingTheoriesAmerican2014: Readings/Session 4/gilensTestingTheoriesAmerican2014.pdf
+Could not find or download PDF for ansolabehereStrengthIssuesUsing2008b
+Processed PDF for Stimson1995: Readings/Session 4/Stimson1995.pdf
+Processed PDF for iyengarOriginsConsequencesAffective2019: Readings/Session 4/iyengarOriginsConsequencesAffective2019.pdf
+Processed PDF for Bawn2012: Readings/Session 6/Bawn2012.pdf
+Processed PDF for Clark1961: Readings/Session 6/Clark1961.pdf
+Processed PDF for Lowi1964: Readings/Session 6/Lowi1964.pdf
+Processed PDF for crossonPolarizedPluralismOrganizational2020: Readings/Session 6/crossonPolarizedPluralismOrganizational2020.pdf
+Processed PDF for libgoberLawyersLobbyistsRegulatory2024: Readings/Session 6/libgoberLawyersLobbyistsRegulatory2024.pdf
+Processed PDF for hackerBridgingBlueDivide2023: Readings/Session 6/hackerBridgingBlueDivide2023.pdf
+Processed PDF for Ansolabehere2003a: Readings/Session 6/Ansolabehere2003a.pdf
+Processed PDF for harbridge-yongBipartisanPathEffective2023: Readings/Session 7/harbridge-yongBipartisanPathEffective2023.pdf
+Could not find or download PDF for Gilligan1990
+Could not find or download PDF for Groseclose1996
+Processed PDF for millerConstituencyInfluenceCongress1963: Readings/Session 7/millerConstituencyInfluenceCongress1963.pdf
+Processed PDF for achenMeasuringRepresentation1978: Readings/Session 7/achenMeasuringRepresentation1978.pdf
+Processed PDF for Canes-Wrone2008b: Readings/Session 8/Canes-Wrone2008b.pdf
+Processed PDF for kinaneControlConfirmationPolitics2021: Readings/Session 8/kinaneControlConfirmationPolitics2021.pdf
+Processed PDF for reevesUnilateralPowersPublic2016: Readings/Session 8/reevesUnilateralPowersPublic2016.pdf
+Processed PDF for Carpenter2010a: Readings/Session 9/Carpenter2010a.pdf
+Processed PDF for McCubbins1984: Readings/Session 9/McCubbins1984.pdf
+Processed PDF for brierleyBureaucraticPoliticsBlind2023: Readings/Session 9/brierleyBureaucraticPoliticsBlind2023.pdf
+Processed PDF for kaganAdversarialLegalismAmerican1991: Readings/Session 9/kaganAdversarialLegalismAmerican1991.pdf
+Processed PDF for ennsSwingJustice2013: Readings/Session 9/ennsSwingJustice2013.pdf
+Processed PDF for Lax2011: Readings/Session 9/Lax2011.pdf
+Processed PDF for bonicaJudicialTugWar2020a: Readings/Session 9/bonicaJudicialTugWar2020a.pdf
+
+The following items did not have proper citation keys:
+- - #Anzia
+- - Tesler's Paper
+- - Cramer, Katherine (2020). "Understanding the Role of Racism in Contemporary US Public Opinion". Annual Review of Political Science. 23: 153–169. doi:10.1146/annurev-polisci-060418-042842.
+- - Federalist 10
+- - John Aldrich, Why Parties? The Origin and Transformation of Party Politics in America (1995), Chapters 1-2, 9.
+- - David R. Mayhew, Congress: The Electoral Connection (1974), Pages 1-77
+- - Kenneth A. Shepsle and Barry W. Weingast, “Positive Theories of Congressional Institutions,” LSQ 19 (1994): 149-179
+- - Hijacking the Agenda
+- - Daniel Galvin, Presidential Party Building (2010), Chapters 1-2
+- - Richard Neustadt, “The Power to Persuade,” In Pietro Nivola and David Rosenbloom, eds., Classic Readings in American Politics, 3rd ed, 370-378
+- - Samuel Kernell, Going Public: New Strategies of Presidential Leadership, 4th ed (2006), Chapters 1, 2, 4
+- - Mathew McCubbins, Roger Noll, and Barry Weingast “Administrative Procedures as Instruments of Political Control,” Journal of Law, Economics, and Organization 3 (1987): 243-277
+
+Missing citation keys have been saved to missing_citation_keys.txt
+
+The following PDFs could not be downloaded:
+- Dahl2005
+- ansolabehereStrengthIssuesUsing2008b
+- Gilligan1990
+- Groseclose1996
+
+Failed PDF downloads have been saved to failed_downloads.txt
