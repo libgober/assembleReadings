@@ -103,9 +103,9 @@ Students with disabilities who require accommodations for equal access to this c
 | Week | Date  | Topic                                        | Notes                          |
 |------|-------|----------------------------------------------|--------------------------------|
 | 1    | 9/24  | Introducing American Politics as a Subfield  |                                |
-| 2    | 10/1  | State and Local                              | Sarah Anzia visiting           |
+| 2    | 10/1  | State and Local                              |                                |
 | 3    | 10/8  | Political Participation                      | First paper due                |
-| 4    | 10/15 | Public Opinion                               | Michael Tester visiting        |
+| 4    | 10/15 | Public Opinion                               |                                |
 | 5    | 10/22 | Interest Groups                              | Second paper due               |
 | 6    | 10/29 | Parties                                      |                                |
 | 7    | 11/5  | Congress                                     |                                |
@@ -133,8 +133,6 @@ N.B. If you haven't, read the US constitution and some history of the US. Robert
 - @grumbachLaboratoriesDemocraticBacksliding2023
 - @Gamm2021
 
-*With external guest Sarah Anzia*
-
 ## Session 3 (10/8): Political Participation
 
 - @aldrichRationalChoiceTurnout1993
@@ -157,7 +155,6 @@ N.B. If you haven't, read the US constitution and some history of the US. Robert
 - @Stimson1995
 - @iyengarOriginsConsequencesAffective2019
 
-*With external guest Michael Tesler*
 
 ## Session 5 (10/22): Race and Ethnic Politics
 
@@ -203,8 +200,6 @@ N.B. If you haven't, read the US constitution and some history of the US. Robert
 - @kinaneControlConfirmationPolitics2021
 - @reevesUnilateralPowersPublic2016
 
-*With local guest, Daniel Galvin*
-
 *Third paper due*
 
 ## Session 9 (11/19): Bureaucracy and Courts
@@ -219,8 +214,6 @@ N.B. If you haven't, read the US constitution and some history of the US. Robert
 - @bonicaJudicialTugWar2020a
 
 ## Session 10 (11/26): American Political Development
-
-*With formerly local now external guest, Kumar Ramanathan*
 
 \newpage
 
