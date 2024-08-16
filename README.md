@@ -64,13 +64,19 @@ This script automates the process of fetching and organizing PDFs based on citat
 Once your environment is set up, you can run the script as follows:
 
 ```bash
-python script_name.py syllabus.md /path/to/output/dir --missing-keys-output=missing_keys.txt --failed-downloads-output=failed_downloads.txt
+python assemble_readings_from_zotero.py syllabus.md /path/to/output/dir --missing-keys-output=missing_keys.txt --failed-downloads-output=failed_downloads.txt
 ```
 
 - **syllabus.md**: The path to your Markdown syllabus file.
 - **/path/to/output/dir**: The directory where you want to save the PDFs.
 - **--missing-keys-output**: Optional. Specify the file to save missing citation keys (default: `missing_citation_keys.txt`).
 - **--failed-downloads-output**: Optional. Specify the file to save failed PDF downloads (default: `failed_downloads.txt`).
+
+You can see the output of the following in this git
+
+```bash
+python assemble_readings_from_zotero.py 410_syllabus.md Readings > output.txt
+```
 
 ### Error Handling and Limitations
 
