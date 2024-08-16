@@ -2,7 +2,15 @@
 
 ## Overview
 
-This script automates the process of fetching and organizing PDFs based on citations in a Markdown syllabus. It uses a Zotero Better BibTeX JSON export to map citation keys to Zotero items and either copies the PDFs from local storage or downloads them using the Zotero API. The script is designed to handle errors gracefully, providing detailed logs of missing citation keys and failed PDF downloads.
+Fair warning. ChatGPT wrote most of this, but here you go. This script automates the process of fetching and organizing PDFs based on citations in a Markdown syllabus. It uses a Zotero Better BibTeX JSON export to map citation keys to Zotero items and either copies the PDFs from local storage or downloads them using the Zotero API. The script is designed to handle errors gracefully, providing detailed logs of missing citation keys and failed PDF downloads.
+
+Basically the point is to get to running something like the following:
+
+```bash
+python assemble_readings_from_zotero.py 410_syllabus.md Readings > output.txt
+```
+
+You can see the 410_syllabus.md as a model. You can see output.txt to get a sense of what it did. Also final_directory_structure.txt, slightly easier to read. This will probably break if you change the format for sessions and headings, but it shouldn't be too hard to fix.
 
 ## Features
 
@@ -72,11 +80,7 @@ python assemble_readings_from_zotero.py syllabus.md /path/to/output/dir --missin
 - **--missing-keys-output**: Optional. Specify the file to save missing citation keys (default: `missing_citation_keys.txt`).
 - **--failed-downloads-output**: Optional. Specify the file to save failed PDF downloads (default: `failed_downloads.txt`).
 
-You can see the output of the following in this git
 
-```bash
-python assemble_readings_from_zotero.py 410_syllabus.md Readings > output.txt
-```
 
 ### Error Handling and Limitations
 
